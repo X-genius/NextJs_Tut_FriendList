@@ -27,6 +27,9 @@ nav a {
 nav .logo {
   margin-right: auto;
 }
+.friends-image{
+  margin: 32px 0px 0px 0px !important;
+}
 footer {
   display: block;
   text-align: center;
